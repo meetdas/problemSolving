@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e17a0435-751c-4342-921d-99dd67d01bbe": {
+      "ProjectGuid": "e17a0435-751c-4342-921d-99dd67d01bbe",
+      "DisplayName": "StoneIn_A_Row",
+      "ColorIndex": 0
+    },
+    "27a7cac1-ee07-43c4-93fe-42cd20518820": {
+      "ProjectGuid": "27a7cac1-ee07-43c4-93fe-42cd20518820",
+      "DisplayName": "HQ9+ProgrammingLanguage",
+      "ColorIndex": 1
+    },
+    "669dd7fc-331d-48e5-bcaf-22343f7319eb": {
+      "ProjectGuid": "669dd7fc-331d-48e5-bcaf-22343f7319eb",
+      "DisplayName": "ChatRoom",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
