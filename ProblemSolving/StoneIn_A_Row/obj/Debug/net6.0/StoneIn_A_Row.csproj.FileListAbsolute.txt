@@ -1,0 +1,15 @@
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\bin\Debug\net6.0\StoneIn_A_Row.exe
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\bin\Debug\net6.0\StoneIn_A_Row.deps.json
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\bin\Debug\net6.0\StoneIn_A_Row.runtimeconfig.json
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\bin\Debug\net6.0\StoneIn_A_Row.dll
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\bin\Debug\net6.0\ref\StoneIn_A_Row.dll
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\bin\Debug\net6.0\StoneIn_A_Row.pdb
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\obj\Debug\net6.0\StoneIn_A_Row.csproj.AssemblyReference.cache
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\obj\Debug\net6.0\StoneIn_A_Row.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\obj\Debug\net6.0\StoneIn_A_Row.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\obj\Debug\net6.0\StoneIn_A_Row.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\obj\Debug\net6.0\StoneIn_A_Row.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\obj\Debug\net6.0\StoneIn_A_Row.dll
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\obj\Debug\net6.0\ref\StoneIn_A_Row.dll
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\obj\Debug\net6.0\StoneIn_A_Row.pdb
+D:\problemSolving\ProblemSolving\StoneIn_A_Row\obj\Debug\net6.0\StoneIn_A_Row.genruntimeconfig.cache

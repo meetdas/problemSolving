@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StoneIn_A_Row/1.0.0": {
+        "runtime": {
+          "StoneIn_A_Row.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StoneIn_A_Row/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

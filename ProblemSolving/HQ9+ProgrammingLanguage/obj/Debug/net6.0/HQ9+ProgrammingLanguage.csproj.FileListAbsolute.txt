@@ -1,0 +1,15 @@
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\bin\Debug\net6.0\HQ9+ProgrammingLanguage.exe
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\bin\Debug\net6.0\HQ9+ProgrammingLanguage.deps.json
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\bin\Debug\net6.0\HQ9+ProgrammingLanguage.runtimeconfig.json
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\bin\Debug\net6.0\HQ9+ProgrammingLanguage.dll
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\bin\Debug\net6.0\ref\HQ9+ProgrammingLanguage.dll
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\bin\Debug\net6.0\HQ9+ProgrammingLanguage.pdb
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\obj\Debug\net6.0\HQ9+ProgrammingLanguage.csproj.AssemblyReference.cache
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\obj\Debug\net6.0\HQ9+ProgrammingLanguage.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\obj\Debug\net6.0\HQ9+ProgrammingLanguage.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\obj\Debug\net6.0\HQ9+ProgrammingLanguage.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\obj\Debug\net6.0\HQ9+ProgrammingLanguage.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\obj\Debug\net6.0\HQ9+ProgrammingLanguage.dll
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\obj\Debug\net6.0\ref\HQ9+ProgrammingLanguage.dll
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\obj\Debug\net6.0\HQ9+ProgrammingLanguage.pdb
+D:\problemSolving\ProblemSolving\HQ9+ProgrammingLanguage\obj\Debug\net6.0\HQ9+ProgrammingLanguage.genruntimeconfig.cache
