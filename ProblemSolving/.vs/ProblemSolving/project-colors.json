@@ -15,7 +15,17 @@
       "ProjectGuid": "669dd7fc-331d-48e5-bcaf-22343f7319eb",
       "DisplayName": "ChatRoom",
       "ColorIndex": 2
+    },
+    "f6d1b787-02f5-461b-8ef8-fb27e676047b": {
+      "ProjectGuid": "f6d1b787-02f5-461b-8ef8-fb27e676047b",
+      "DisplayName": "LTwoSum",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
