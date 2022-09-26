@@ -45,7 +45,32 @@
       "ProjectGuid": "ef484ca1-2a90-4f8d-aadf-8f512705c570",
       "DisplayName": "Elephant_617",
       "ColorIndex": 7
+    },
+    "b76d9077-1cdd-4c4d-9f1b-dcf77287583f": {
+      "ProjectGuid": "b76d9077-1cdd-4c4d-9f1b-dcf77287583f",
+      "DisplayName": "WrongSubstruction",
+      "ColorIndex": 8
+    },
+    "440b5f83-de5f-4b4d-9b27-14ec4f843d3b": {
+      "ProjectGuid": "440b5f83-de5f-4b4d-9b27-14ec4f843d3b",
+      "DisplayName": "BearAndBigBrother791",
+      "ColorIndex": 9
+    },
+    "de60fb34-9af9-45c6-9ff4-68556a931229": {
+      "ProjectGuid": "de60fb34-9af9-45c6-9ff4-68556a931229",
+      "DisplayName": "SoldierAndBananas546",
+      "ColorIndex": 10
+    },
+    "8d3772eb-424c-40b0-bf23-ee61aaece5f0": {
+      "ProjectGuid": "8d3772eb-424c-40b0-bf23-ee61aaece5f0",
+      "DisplayName": "Football96",
+      "ColorIndex": 11
+    },
+    "01e17177-5a78-4973-ae2f-5736f9e6cf3d": {
+      "ProjectGuid": "01e17177-5a78-4973-ae2f-5736f9e6cf3d",
+      "DisplayName": "BoyOrGirl236",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 13
 }
