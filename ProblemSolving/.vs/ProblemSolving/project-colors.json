@@ -30,7 +30,22 @@
       "ProjectGuid": "823d2acb-91b4-4a2f-8d14-f09551282d65",
       "DisplayName": "Lpalindrome",
       "ColorIndex": 4
+    },
+    "63bb9627-92f5-4d56-a19e-929dcf5f85cb": {
+      "ProjectGuid": "63bb9627-92f5-4d56-a19e-929dcf5f85cb",
+      "DisplayName": "LRomanToInteger",
+      "ColorIndex": 5
+    },
+    "99d8f894-54d5-4cb4-9953-a0fb255a9823": {
+      "ProjectGuid": "99d8f894-54d5-4cb4-9953-a0fb255a9823",
+      "DisplayName": "aWord",
+      "ColorIndex": 6
+    },
+    "ef484ca1-2a90-4f8d-aadf-8f512705c570": {
+      "ProjectGuid": "ef484ca1-2a90-4f8d-aadf-8f512705c570",
+      "DisplayName": "Elephant_617",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }
