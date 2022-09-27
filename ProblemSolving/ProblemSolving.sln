@@ -19,15 +19,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aWord", "aWord\aWord.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Elephant_617", "Elephant_617\Elephant_617.csproj", "{EF484CA1-2A90-4F8D-AADF-8F512705C570}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrongSubstruction", "WrongSubstruction\WrongSubstruction.csproj", "{B76D9077-1CDD-4C4D-9F1B-DCF77287583F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WrongSubstruction", "WrongSubstruction\WrongSubstruction.csproj", "{B76D9077-1CDD-4C4D-9F1B-DCF77287583F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearAndBigBrother791", "BearAndBigBrother791\BearAndBigBrother791.csproj", "{440B5F83-DE5F-4B4D-9B27-14EC4F843D3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BearAndBigBrother791", "BearAndBigBrother791\BearAndBigBrother791.csproj", "{440B5F83-DE5F-4B4D-9B27-14EC4F843D3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoldierAndBananas546", "SoldierAndBananas546\SoldierAndBananas546.csproj", "{DE60FB34-9AF9-45C6-9FF4-68556A931229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoldierAndBananas546", "SoldierAndBananas546\SoldierAndBananas546.csproj", "{DE60FB34-9AF9-45C6-9FF4-68556A931229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Football96", "Football96\Football96.csproj", "{8D3772EB-424C-40B0-BF23-EE61AAECE5F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Football96", "Football96\Football96.csproj", "{8D3772EB-424C-40B0-BF23-EE61AAECE5F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoyOrGirl236", "BoyOrGirl236\BoyOrGirl236.csproj", "{01E17177-5A78-4973-AE2F-5736F9E6CF3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoyOrGirl236", "BoyOrGirl236\BoyOrGirl236.csproj", "{01E17177-5A78-4973-AE2F-5736F9E6CF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpfulMaths339", "HelpfulMaths339\HelpfulMaths339.csproj", "{DE2431B5-FDA8-4C22-B92F-1A577D45CFC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{01E17177-5A78-4973-AE2F-5736F9E6CF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01E17177-5A78-4973-AE2F-5736F9E6CF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01E17177-5A78-4973-AE2F-5736F9E6CF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2431B5-FDA8-4C22-B92F-1A577D45CFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2431B5-FDA8-4C22-B92F-1A577D45CFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2431B5-FDA8-4C22-B92F-1A577D45CFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2431B5-FDA8-4C22-B92F-1A577D45CFC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
