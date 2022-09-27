@@ -70,7 +70,17 @@
       "ProjectGuid": "01e17177-5a78-4973-ae2f-5736f9e6cf3d",
       "DisplayName": "BoyOrGirl236",
       "ColorIndex": 12
+    },
+    "de2431b5-fda8-4c22-b92f-1a577d45cfc6": {
+      "ProjectGuid": "de2431b5-fda8-4c22-b92f-1a577d45cfc6",
+      "DisplayName": "HelpfulMaths339",
+      "ColorIndex": 13
+    },
+    "245a78b2-9d39-4319-8f9b-45c0d9e3fcb6": {
+      "ProjectGuid": "245a78b2-9d39-4319-8f9b-45c0d9e3fcb6",
+      "DisplayName": "StringTask118",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 15
 }
