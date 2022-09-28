@@ -1,0 +1,15 @@
+D:\problemSolving\ProblemSolving\LRomanToInteger\bin\Debug\net6.0\LRomanToInteger.exe
+D:\problemSolving\ProblemSolving\LRomanToInteger\bin\Debug\net6.0\LRomanToInteger.deps.json
+D:\problemSolving\ProblemSolving\LRomanToInteger\bin\Debug\net6.0\LRomanToInteger.runtimeconfig.json
+D:\problemSolving\ProblemSolving\LRomanToInteger\bin\Debug\net6.0\LRomanToInteger.dll
+D:\problemSolving\ProblemSolving\LRomanToInteger\bin\Debug\net6.0\ref\LRomanToInteger.dll
+D:\problemSolving\ProblemSolving\LRomanToInteger\bin\Debug\net6.0\LRomanToInteger.pdb
+D:\problemSolving\ProblemSolving\LRomanToInteger\obj\Debug\net6.0\LRomanToInteger.csproj.AssemblyReference.cache
+D:\problemSolving\ProblemSolving\LRomanToInteger\obj\Debug\net6.0\LRomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\LRomanToInteger\obj\Debug\net6.0\LRomanToInteger.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\LRomanToInteger\obj\Debug\net6.0\LRomanToInteger.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\LRomanToInteger\obj\Debug\net6.0\LRomanToInteger.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\LRomanToInteger\obj\Debug\net6.0\LRomanToInteger.dll
+D:\problemSolving\ProblemSolving\LRomanToInteger\obj\Debug\net6.0\ref\LRomanToInteger.dll
+D:\problemSolving\ProblemSolving\LRomanToInteger\obj\Debug\net6.0\LRomanToInteger.pdb
+D:\problemSolving\ProblemSolving\LRomanToInteger\obj\Debug\net6.0\LRomanToInteger.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\problemSolving\ProblemSolving\Elephant_617\bin\Debug\net6.0\Elephant_617.exe
+D:\problemSolving\ProblemSolving\Elephant_617\bin\Debug\net6.0\Elephant_617.deps.json
+D:\problemSolving\ProblemSolving\Elephant_617\bin\Debug\net6.0\Elephant_617.runtimeconfig.json
+D:\problemSolving\ProblemSolving\Elephant_617\bin\Debug\net6.0\Elephant_617.dll
+D:\problemSolving\ProblemSolving\Elephant_617\bin\Debug\net6.0\ref\Elephant_617.dll
+D:\problemSolving\ProblemSolving\Elephant_617\bin\Debug\net6.0\Elephant_617.pdb
+D:\problemSolving\ProblemSolving\Elephant_617\obj\Debug\net6.0\Elephant_617.csproj.AssemblyReference.cache
+D:\problemSolving\ProblemSolving\Elephant_617\obj\Debug\net6.0\Elephant_617.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\Elephant_617\obj\Debug\net6.0\Elephant_617.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\Elephant_617\obj\Debug\net6.0\Elephant_617.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\Elephant_617\obj\Debug\net6.0\Elephant_617.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\Elephant_617\obj\Debug\net6.0\Elephant_617.dll
+D:\problemSolving\ProblemSolving\Elephant_617\obj\Debug\net6.0\ref\Elephant_617.dll
+D:\problemSolving\ProblemSolving\Elephant_617\obj\Debug\net6.0\Elephant_617.pdb
+D:\problemSolving\ProblemSolving\Elephant_617\obj\Debug\net6.0\Elephant_617.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\bin\Debug\net6.0\SoldierAndBananas546.exe
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\bin\Debug\net6.0\SoldierAndBananas546.deps.json
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\bin\Debug\net6.0\SoldierAndBananas546.runtimeconfig.json
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\bin\Debug\net6.0\SoldierAndBananas546.dll
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\bin\Debug\net6.0\ref\SoldierAndBananas546.dll
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\bin\Debug\net6.0\SoldierAndBananas546.pdb
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\obj\Debug\net6.0\SoldierAndBananas546.csproj.AssemblyReference.cache
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\obj\Debug\net6.0\SoldierAndBananas546.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\obj\Debug\net6.0\SoldierAndBananas546.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\obj\Debug\net6.0\SoldierAndBananas546.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\obj\Debug\net6.0\SoldierAndBananas546.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\obj\Debug\net6.0\SoldierAndBananas546.dll
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\obj\Debug\net6.0\ref\SoldierAndBananas546.dll
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\obj\Debug\net6.0\SoldierAndBananas546.pdb
+D:\problemSolving\ProblemSolving\SoldierAndBananas546\obj\Debug\net6.0\SoldierAndBananas546.genruntimeconfig.cache

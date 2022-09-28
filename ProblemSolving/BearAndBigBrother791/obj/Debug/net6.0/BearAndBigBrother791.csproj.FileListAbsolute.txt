@@ -1,0 +1,15 @@
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\bin\Debug\net6.0\BearAndBigBrother791.exe
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\bin\Debug\net6.0\BearAndBigBrother791.deps.json
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\bin\Debug\net6.0\BearAndBigBrother791.runtimeconfig.json
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\bin\Debug\net6.0\BearAndBigBrother791.dll
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\bin\Debug\net6.0\ref\BearAndBigBrother791.dll
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\bin\Debug\net6.0\BearAndBigBrother791.pdb
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\obj\Debug\net6.0\BearAndBigBrother791.csproj.AssemblyReference.cache
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\obj\Debug\net6.0\BearAndBigBrother791.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\obj\Debug\net6.0\BearAndBigBrother791.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\obj\Debug\net6.0\BearAndBigBrother791.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\obj\Debug\net6.0\BearAndBigBrother791.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\obj\Debug\net6.0\BearAndBigBrother791.dll
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\obj\Debug\net6.0\ref\BearAndBigBrother791.dll
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\obj\Debug\net6.0\BearAndBigBrother791.pdb
+D:\problemSolving\ProblemSolving\BearAndBigBrother791\obj\Debug\net6.0\BearAndBigBrother791.genruntimeconfig.cache

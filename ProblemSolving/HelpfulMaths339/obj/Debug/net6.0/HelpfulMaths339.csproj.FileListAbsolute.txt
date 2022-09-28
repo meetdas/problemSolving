@@ -1,0 +1,15 @@
+D:\problemSolving\ProblemSolving\HelpfulMaths339\bin\Debug\net6.0\HelpfulMaths339.exe
+D:\problemSolving\ProblemSolving\HelpfulMaths339\bin\Debug\net6.0\HelpfulMaths339.deps.json
+D:\problemSolving\ProblemSolving\HelpfulMaths339\bin\Debug\net6.0\HelpfulMaths339.runtimeconfig.json
+D:\problemSolving\ProblemSolving\HelpfulMaths339\bin\Debug\net6.0\HelpfulMaths339.dll
+D:\problemSolving\ProblemSolving\HelpfulMaths339\bin\Debug\net6.0\ref\HelpfulMaths339.dll
+D:\problemSolving\ProblemSolving\HelpfulMaths339\bin\Debug\net6.0\HelpfulMaths339.pdb
+D:\problemSolving\ProblemSolving\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.dll
+D:\problemSolving\ProblemSolving\HelpfulMaths339\obj\Debug\net6.0\ref\HelpfulMaths339.dll
+D:\problemSolving\ProblemSolving\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.pdb
+D:\problemSolving\ProblemSolving\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.genruntimeconfig.cache
+D:\problemSolving\ProblemSolving\HelpfulMaths339\obj\Debug\net6.0\HelpfulMaths339.csproj.AssemblyReference.cache

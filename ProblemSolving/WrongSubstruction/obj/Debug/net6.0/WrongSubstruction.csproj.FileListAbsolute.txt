@@ -1,0 +1,14 @@
+D:\problemSolving\ProblemSolving\WrongSubstruction\bin\Debug\net6.0\WrongSubstruction.exe
+D:\problemSolving\ProblemSolving\WrongSubstruction\bin\Debug\net6.0\WrongSubstruction.deps.json
+D:\problemSolving\ProblemSolving\WrongSubstruction\bin\Debug\net6.0\WrongSubstruction.runtimeconfig.json
+D:\problemSolving\ProblemSolving\WrongSubstruction\bin\Debug\net6.0\WrongSubstruction.dll
+D:\problemSolving\ProblemSolving\WrongSubstruction\bin\Debug\net6.0\ref\WrongSubstruction.dll
+D:\problemSolving\ProblemSolving\WrongSubstruction\bin\Debug\net6.0\WrongSubstruction.pdb
+D:\problemSolving\ProblemSolving\WrongSubstruction\obj\Debug\net6.0\WrongSubstruction.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\WrongSubstruction\obj\Debug\net6.0\WrongSubstruction.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\WrongSubstruction\obj\Debug\net6.0\WrongSubstruction.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\WrongSubstruction\obj\Debug\net6.0\WrongSubstruction.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\WrongSubstruction\obj\Debug\net6.0\WrongSubstruction.dll
+D:\problemSolving\ProblemSolving\WrongSubstruction\obj\Debug\net6.0\ref\WrongSubstruction.dll
+D:\problemSolving\ProblemSolving\WrongSubstruction\obj\Debug\net6.0\WrongSubstruction.pdb
+D:\problemSolving\ProblemSolving\WrongSubstruction\obj\Debug\net6.0\WrongSubstruction.genruntimeconfig.cache

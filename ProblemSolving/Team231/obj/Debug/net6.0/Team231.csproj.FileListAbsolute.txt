@@ -1,0 +1,15 @@
+D:\problemSolving\ProblemSolving\Team231\bin\Debug\net6.0\Team231.exe
+D:\problemSolving\ProblemSolving\Team231\bin\Debug\net6.0\Team231.deps.json
+D:\problemSolving\ProblemSolving\Team231\bin\Debug\net6.0\Team231.runtimeconfig.json
+D:\problemSolving\ProblemSolving\Team231\bin\Debug\net6.0\Team231.dll
+D:\problemSolving\ProblemSolving\Team231\bin\Debug\net6.0\ref\Team231.dll
+D:\problemSolving\ProblemSolving\Team231\bin\Debug\net6.0\Team231.pdb
+D:\problemSolving\ProblemSolving\Team231\obj\Debug\net6.0\Team231.csproj.AssemblyReference.cache
+D:\problemSolving\ProblemSolving\Team231\obj\Debug\net6.0\Team231.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\Team231\obj\Debug\net6.0\Team231.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\Team231\obj\Debug\net6.0\Team231.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\Team231\obj\Debug\net6.0\Team231.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\Team231\obj\Debug\net6.0\Team231.dll
+D:\problemSolving\ProblemSolving\Team231\obj\Debug\net6.0\ref\Team231.dll
+D:\problemSolving\ProblemSolving\Team231\obj\Debug\net6.0\Team231.pdb
+D:\problemSolving\ProblemSolving\Team231\obj\Debug\net6.0\Team231.genruntimeconfig.cache

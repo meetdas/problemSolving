@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BoyOrGirl236/1.0.0": {
+        "runtime": {
+          "BoyOrGirl236.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BoyOrGirl236/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

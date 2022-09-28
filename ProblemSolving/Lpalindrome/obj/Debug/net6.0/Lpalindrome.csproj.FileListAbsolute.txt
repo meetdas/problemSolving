@@ -1,0 +1,15 @@
+D:\problemSolving\ProblemSolving\Lpalindrome\bin\Debug\net6.0\Lpalindrome.exe
+D:\problemSolving\ProblemSolving\Lpalindrome\bin\Debug\net6.0\Lpalindrome.deps.json
+D:\problemSolving\ProblemSolving\Lpalindrome\bin\Debug\net6.0\Lpalindrome.runtimeconfig.json
+D:\problemSolving\ProblemSolving\Lpalindrome\bin\Debug\net6.0\Lpalindrome.dll
+D:\problemSolving\ProblemSolving\Lpalindrome\bin\Debug\net6.0\ref\Lpalindrome.dll
+D:\problemSolving\ProblemSolving\Lpalindrome\bin\Debug\net6.0\Lpalindrome.pdb
+D:\problemSolving\ProblemSolving\Lpalindrome\obj\Debug\net6.0\Lpalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\Lpalindrome\obj\Debug\net6.0\Lpalindrome.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\Lpalindrome\obj\Debug\net6.0\Lpalindrome.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\Lpalindrome\obj\Debug\net6.0\Lpalindrome.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\Lpalindrome\obj\Debug\net6.0\Lpalindrome.dll
+D:\problemSolving\ProblemSolving\Lpalindrome\obj\Debug\net6.0\ref\Lpalindrome.dll
+D:\problemSolving\ProblemSolving\Lpalindrome\obj\Debug\net6.0\Lpalindrome.pdb
+D:\problemSolving\ProblemSolving\Lpalindrome\obj\Debug\net6.0\Lpalindrome.genruntimeconfig.cache
+D:\problemSolving\ProblemSolving\Lpalindrome\obj\Debug\net6.0\Lpalindrome.csproj.AssemblyReference.cache

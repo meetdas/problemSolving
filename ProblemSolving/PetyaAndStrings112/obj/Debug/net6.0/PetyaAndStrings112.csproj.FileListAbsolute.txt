@@ -1,0 +1,15 @@
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\bin\Debug\net6.0\PetyaAndStrings112.exe
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\bin\Debug\net6.0\PetyaAndStrings112.deps.json
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\bin\Debug\net6.0\PetyaAndStrings112.runtimeconfig.json
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\bin\Debug\net6.0\PetyaAndStrings112.dll
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\bin\Debug\net6.0\ref\PetyaAndStrings112.dll
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\bin\Debug\net6.0\PetyaAndStrings112.pdb
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\obj\Debug\net6.0\PetyaAndStrings112.csproj.AssemblyReference.cache
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\obj\Debug\net6.0\PetyaAndStrings112.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\obj\Debug\net6.0\PetyaAndStrings112.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\obj\Debug\net6.0\PetyaAndStrings112.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\obj\Debug\net6.0\PetyaAndStrings112.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\obj\Debug\net6.0\PetyaAndStrings112.dll
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\obj\Debug\net6.0\ref\PetyaAndStrings112.dll
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\obj\Debug\net6.0\PetyaAndStrings112.pdb
+D:\problemSolving\ProblemSolving\PetyaAndStrings112\obj\Debug\net6.0\PetyaAndStrings112.genruntimeconfig.cache

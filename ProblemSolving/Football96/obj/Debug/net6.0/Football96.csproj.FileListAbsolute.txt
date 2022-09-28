@@ -1,0 +1,15 @@
+D:\problemSolving\ProblemSolving\Football96\bin\Debug\net6.0\Football96.exe
+D:\problemSolving\ProblemSolving\Football96\bin\Debug\net6.0\Football96.deps.json
+D:\problemSolving\ProblemSolving\Football96\bin\Debug\net6.0\Football96.runtimeconfig.json
+D:\problemSolving\ProblemSolving\Football96\bin\Debug\net6.0\Football96.dll
+D:\problemSolving\ProblemSolving\Football96\bin\Debug\net6.0\ref\Football96.dll
+D:\problemSolving\ProblemSolving\Football96\bin\Debug\net6.0\Football96.pdb
+D:\problemSolving\ProblemSolving\Football96\obj\Debug\net6.0\Football96.csproj.AssemblyReference.cache
+D:\problemSolving\ProblemSolving\Football96\obj\Debug\net6.0\Football96.GeneratedMSBuildEditorConfig.editorconfig
+D:\problemSolving\ProblemSolving\Football96\obj\Debug\net6.0\Football96.AssemblyInfoInputs.cache
+D:\problemSolving\ProblemSolving\Football96\obj\Debug\net6.0\Football96.AssemblyInfo.cs
+D:\problemSolving\ProblemSolving\Football96\obj\Debug\net6.0\Football96.csproj.CoreCompileInputs.cache
+D:\problemSolving\ProblemSolving\Football96\obj\Debug\net6.0\Football96.dll
+D:\problemSolving\ProblemSolving\Football96\obj\Debug\net6.0\ref\Football96.dll
+D:\problemSolving\ProblemSolving\Football96\obj\Debug\net6.0\Football96.pdb
+D:\problemSolving\ProblemSolving\Football96\obj\Debug\net6.0\Football96.genruntimeconfig.cache
