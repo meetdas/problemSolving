@@ -80,7 +80,12 @@
       "ProjectGuid": "245a78b2-9d39-4319-8f9b-45c0d9e3fcb6",
       "DisplayName": "StringTask118",
       "ColorIndex": 14
+    },
+    "04a1de28-9881-42d2-8a66-13ffa601363e": {
+      "ProjectGuid": "04a1de28-9881-42d2-8a66-13ffa601363e",
+      "DisplayName": "test",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 0
 }
