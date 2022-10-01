@@ -110,7 +110,22 @@
       "ProjectGuid": "30a95734-923a-4ba5-b4e8-d92b34a1f31f",
       "DisplayName": "Team231",
       "ColorIndex": 4
+    },
+    "ba42095a-722d-4aa8-a5aa-1228a216b5de": {
+      "ProjectGuid": "ba42095a-722d-4aa8-a5aa-1228a216b5de",
+      "DisplayName": "DominoPiling50A",
+      "ColorIndex": 5
+    },
+    "953c1766-af80-4812-9d37-98b2db635dbc": {
+      "ProjectGuid": "953c1766-af80-4812-9d37-98b2db635dbc",
+      "DisplayName": "NextRound158A",
+      "ColorIndex": 6
+    },
+    "c1c952f1-2b8b-4ece-bae5-8d1899743510": {
+      "ProjectGuid": "c1c952f1-2b8b-4ece-bae5-8d1899743510",
+      "DisplayName": "WordCapitalization281A",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }

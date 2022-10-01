@@ -45,7 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Watermelon4A", "Watermelon\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Team231", "Team231\Team231.csproj", "{30A95734-923A-4BA5-B4E8-D92B34A1F31F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextRound158A", "NextRound158A\NextRound158A.csproj", "{953C1766-AF80-4812-9D37-98B2DB635DBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NextRound158A", "NextRound158A\NextRound158A.csproj", "{953C1766-AF80-4812-9D37-98B2DB635DBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DominoPiling50A", "DominoPiling50A\DominoPiling50A.csproj", "{BA42095A-722D-4AA8-A5AA-1228A216B5DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCapitalization281A", "WordCapitalization281A\WordCapitalization281A.csproj", "{C1C952F1-2B8B-4ECE-BAE5-8D1899743510}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{953C1766-AF80-4812-9D37-98B2DB635DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{953C1766-AF80-4812-9D37-98B2DB635DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{953C1766-AF80-4812-9D37-98B2DB635DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA42095A-722D-4AA8-A5AA-1228A216B5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA42095A-722D-4AA8-A5AA-1228A216B5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA42095A-722D-4AA8-A5AA-1228A216B5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA42095A-722D-4AA8-A5AA-1228A216B5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1C952F1-2B8B-4ECE-BAE5-8D1899743510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C952F1-2B8B-4ECE-BAE5-8D1899743510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C952F1-2B8B-4ECE-BAE5-8D1899743510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C952F1-2B8B-4ECE-BAE5-8D1899743510}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
