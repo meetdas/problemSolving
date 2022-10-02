@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NextRound158A", "NextRound1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DominoPiling50A", "DominoPiling50A\DominoPiling50A.csproj", "{BA42095A-722D-4AA8-A5AA-1228A216B5DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCapitalization281A", "WordCapitalization281A\WordCapitalization281A.csproj", "{C1C952F1-2B8B-4ECE-BAE5-8D1899743510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordCapitalization281A", "WordCapitalization281A\WordCapitalization281A.csproj", "{C1C952F1-2B8B-4ECE-BAE5-8D1899743510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearlyLuckyNumber110A", "NearlyLuckyNumber110A\NearlyLuckyNumber110A.csproj", "{2D5EB1DA-8914-40C3-B7B7-58741909A286}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{C1C952F1-2B8B-4ECE-BAE5-8D1899743510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1C952F1-2B8B-4ECE-BAE5-8D1899743510}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1C952F1-2B8B-4ECE-BAE5-8D1899743510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5EB1DA-8914-40C3-B7B7-58741909A286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5EB1DA-8914-40C3-B7B7-58741909A286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5EB1DA-8914-40C3-B7B7-58741909A286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5EB1DA-8914-40C3-B7B7-58741909A286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

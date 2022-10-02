@@ -125,7 +125,12 @@
       "ProjectGuid": "c1c952f1-2b8b-4ece-bae5-8d1899743510",
       "DisplayName": "WordCapitalization281A",
       "ColorIndex": 7
+    },
+    "2d5eb1da-8914-40c3-b7b7-58741909a286": {
+      "ProjectGuid": "2d5eb1da-8914-40c3-b7b7-58741909a286",
+      "DisplayName": "NearlyLuckyNumber110A",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
